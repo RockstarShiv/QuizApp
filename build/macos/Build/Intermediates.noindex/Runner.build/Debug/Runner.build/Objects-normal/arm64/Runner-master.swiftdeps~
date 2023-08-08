@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "46983c0d997e12c68a8e1f5f7b08c0a73c61c6b859d061837f09aaa7ca02dcf4"
+build_start_time: [1686374366, 650468000]
+build_end_time: [1686374366, 730501000]
+inputs:
+  "/Users/apple/Desktop/Flutter_projects/adv_basics/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1686374343, 858652775]
+  "/Users/apple/Desktop/Flutter_projects/adv_basics/macos/Runner/AppDelegate.swift": !private [1679506235, 0]
+  "/Users/apple/Desktop/Flutter_projects/adv_basics/macos/Runner/MainFlutterWindow.swift": !private [1679506235, 0]
